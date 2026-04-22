@@ -1,0 +1,314 @@
+{
+  "name": "Last War",
+  "domain": "lastwar.fr",
+  "slug": "lastwar",
+  "genre": "Strategy",
+  "iframeUrl": "/game/index.html",
+
+  "seo": {
+    "title": "Last War – Free Strategy Game Online, No Download",
+    "description": "Play Last War free in your browser — build your base, command armies, and survive the apocalypse. No download, no account. A deep strategy game for serious commanders.",
+    "keywords": ["Last War", "last war game online", "play last war free", "free strategy game browser", "survival strategy game online", "base building strategy no download", "war strategy game free"]
+  },
+
+  "homepage": {
+    "heroHeadline": "Survive the Last War. Play Free Online.",
+    "heroSubtitle": "Build your base, raise an army, and fight for survival in a post-apocalyptic world. No download, no account — command from your browser.",
+    "lede": "Last War is a free browser strategy game where you build fortified bases, command diverse military units, and outmanoeuvre enemies in a world on the brink of collapse.",
+    "stats": [
+      { "value": "60+", "label": "Campaign Missions" },
+      { "value": "4",   "label": "Military Branches" },
+      { "value": "0",   "label": "Downloads Needed" },
+      { "value": "100%","label": "Free Forever" }
+    ],
+    "about": {
+      "kicker": "What is Last War?",
+      "headline": "The strategy game where every decision shapes survival.",
+      "paragraph1": "Last War is a free online strategy game set in a post-apocalyptic world where factions compete for control of dwindling resources. You build and upgrade a military base, recruit specialised units across infantry, armour, air, and support branches, and execute tactical operations against enemy strongholds across a deep campaign. The decisions made in the first few minutes of each mission determine whether the base survives the final assault.",
+      "paragraph2": "The campaign progresses through escalating theatres of conflict, each introducing new enemy unit types, environmental hazards, and strategic wrinkles that require adapting your base layout and army composition. The game runs entirely in the browser — no download, no account, no waiting — and scales to any screen from desktop to mobile."
+    },
+    "howToPlay": {
+      "headline": "Build. Reinforce. Dominate.",
+      "subheading": "Secure resources, construct your base defences, and deploy combined-arms forces to eliminate the enemy threat."
+    },
+    "steps": [
+      { "icon": "folder",       "title": "Open the Game",        "desc": "Go to the Play page — Last War loads instantly in any modern browser without installation or account creation." },
+      { "icon": "eye",          "title": "Assess the Theatre",   "desc": "Study the mission map before building. Identify incoming threat vectors, resource locations, and terrain features that can anchor your defensive lines." },
+      { "icon": "refresh",      "title": "Build Your Base",      "desc": "Construct resource extractors, barracks, vehicle depots, and defensive emplacements. The layout of your base determines how efficiently you can respond to attacks from multiple directions." },
+      { "icon": "puzzle",       "title": "Deploy Combined Arms",  "desc": "Field infantry, armoured vehicles, air support, and artillery in coordinated formations. No single unit type dominates — combined arms forces exploit the weaknesses of every enemy configuration." },
+      { "icon": "check-circle", "title": "Achieve the Objective", "desc": "Destroy the enemy command centre or defend your base through the final wave to complete the mission and unlock new campaign stages, units, and upgrades." }
+    ],
+    "categories": [
+      { "name": "Recruit",    "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
+      { "name": "Sergeant",   "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
+      { "name": "Lieutenant", "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
+      { "name": "Colonel",    "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
+      { "name": "General",    "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+    ],
+    "features": [
+      { "icon": "bolt",   "title": "Instant Browser Play",    "desc": "No installation or sign-up required. Last War loads in seconds and the first mission is ready to play immediately on any modern browser." },
+      { "icon": "target", "title": "Combined Arms Strategy",  "desc": "Four distinct military branches — infantry, armour, aviation, and artillery — each with unique roles and counter relationships that create deep tactical decisions in every mission." },
+      { "icon": "device", "title": "Plays on Any Device",     "desc": "Fully responsive controls adapt to desktop mouse and keyboard or mobile touch input. The same strategic depth is available whether you play on a phone or a large monitor." },
+      { "icon": "image",  "title": "Detailed Battle Visuals", "desc": "Clear visual language distinguishes unit types, building states, and threat indicators at a glance, so tactical reading of the battlefield is never obscured by visual noise." },
+      { "icon": "shield", "title": "Safe for All Players",    "desc": "No targeted advertising, no in-app purchases, and no account required. Combat is depicted in a stylised manner without graphic content — accessible to all ages." },
+      { "icon": "music",  "title": "Cinematic Audio Design",  "desc": "Military percussion and ambient warzone audio reinforce the tension of each engagement without interfering with the strategic thinking required to win." }
+    ],
+    "faq": [
+      { "q": "What is Last War?",             "a": "Last War is a free online strategy game where you build a military base and command combined-arms forces across 60+ campaign missions set in a post-apocalyptic conflict scenario." },
+      { "q": "Is Last War free?",             "a": "Yes, completely free. There are no premium missions, subscription tiers, or in-app purchases. The full campaign is accessible at no cost from the first session." },
+      { "q": "Does Last War work on mobile?", "a": "Yes. The game adapts automatically to touchscreen controls on mobile and tablet, and mouse and keyboard on desktop. Screen size is handled responsively." },
+      { "q": "How many levels are there?",    "a": "The campaign contains over 60 missions across multiple theatres of conflict. Difficulty escalates from introductory base-building stages to complex multi-objective operations." },
+      { "q": "Is Last War safe for kids?",    "a": "Yes. Combat uses stylised visuals without graphic imagery. There are no chat features, no targeted ads, and no personal data collected. Suitable for all ages." },
+      { "q": "Do I need an account?",         "a": "No account is needed. Open the game, choose a mission, and start immediately. Progress is saved in your browser's local storage." }
+    ],
+    "cta": {
+      "headline": "The war won't wait for a better time.",
+      "subtext": "Open Last War now — no download, no sign-up, just strategic combat in your browser."
+    }
+  },
+
+  "playPage": {
+    "howItWorksSubtitle": "Construct your base, deploy combined-arms forces, and execute the mission objective before the enemy overruns your position.",
+    "steps": [
+      { "title": "Construct and Fortify",  "desc": "Build resource extractors first, then barracks and vehicle depots in that order. Defensive turrets and walls come once you have a production base — going straight to defences with no income leaves you unable to sustain any force." },
+      { "title": "Train Combined Arms",    "desc": "Infantry hold territory and clear buildings. Armoured vehicles punch through hardened positions. Artillery suppresses enemy formations at range. Aviation disrupts enemy logistics and reinforcements. No single branch wins the campaign alone — combine them according to what the mission presents." },
+      { "title": "Execute and Adapt",      "desc": "Commit to an attack when your force is strong enough to follow through. Half-measures allow the enemy to reinforce. If the assault stalls, withdraw to a defensible line, rebuild momentum, and push again with a cleaner approach. Stubbornness and flexibility are both required at different moments." }
+    ]
+  },
+
+  "faqPage": {
+    "items": [
+      { "q": "Is Last War really free?",         "a": "Yes, entirely free. There are no hidden charges, subscription tiers, or premium content. Every mission in the campaign is accessible from the start without any payment." },
+      { "q": "What devices can I play on?",       "a": "Last War runs in any modern browser — Chrome, Firefox, Safari, Edge — on desktop, tablet, and mobile. No app download is required on any platform." },
+      { "q": "How does the game work?",           "a": "You build a military base, manage resource production, and train units across infantry, armour, aviation, and artillery branches. Missions challenge you to destroy enemy command centres, defend against assaults, or hold strategic positions under time pressure." },
+      { "q": "How many levels are there?",        "a": "Over 60 campaign missions spanning multiple conflict theatres. Early stages introduce the base-building and unit systems; later missions combine all mechanics simultaneously across multi-objective operations." },
+      { "q": "Can I play offline?",               "a": "Once the game loads in your browser, missions typically continue if the connection drops. An initial internet connection is required to load the page the first time." },
+      { "q": "Is my progress saved?",             "a": "Progress is stored in your browser's local storage. Completed missions and unlocked content are remembered across sessions as long as you use the same browser and device." },
+      { "q": "Is Last War safe for children?",    "a": "Yes. Combat is depicted in a stylised manner without graphic imagery. There are no chat features, no targeted advertising, and no account or personal information required. Appropriate for all ages." },
+      { "q": "Do I need to create an account?",   "a": "No. There is no registration or login. Open the site and begin playing immediately without providing any personal information." }
+    ]
+  },
+
+  "howToPlayPage": {
+    "intro": "Last War is a strategy game built around the interaction of four military branches — infantry, armour, aviation, and artillery — and the base-building system that produces and sustains them. Success comes from understanding how these systems interact under resource pressure, and from reading each mission's threat profile accurately enough to prepare the right response before the enemy arrives.",
+    "steps": [
+      { "title": "Establish Production",    "desc": "The first buildings constructed in every mission should be resource extractors. Without sustained income, the base cannot produce units, repair damage, or upgrade structures. Secure multiple resource nodes before building any combat-oriented structure, even if the opening looks safe." },
+      { "title": "Field Complementary Units", "desc": "Infantry clear and hold; armour advances and breaks fortified positions; artillery suppresses and softens targets at range; aviation disrupts enemy supply and eliminates high-value targets. Build the combination that addresses the primary threat each mission presents, not the combination that won the last one." },
+      { "title": "Control the Map",         "desc": "Missions are not won at the base — they are won in the terrain between bases. Secure forward positions, deny resource nodes to the enemy, and establish defensive lines at terrain chokepoints. A commander who cedes map control and simply waits for the assault is already losing." }
+    ],
+    "mechanic": {
+      "title": "Combined Arms Doctrine",
+      "desc": "Last War's combat system is built on genuine combined arms interactions, not a simple rock-paper-scissors triangle. Infantry are effective in cover but vulnerable in open ground to armour. Armour is powerful but slow and exposed to aviation. Aviation dominates open terrain but is countered by dedicated anti-aircraft units. Artillery is lethal but immobile and requires infantry screens to protect it. Winning consistently means constructing forces where each branch covers the weaknesses of the others — not stacking a single dominant unit type and hoping the enemy doesn't adapt."
+    },
+    "difficultyProgression": "Recruit missions introduce one or two mechanics at a time — a single enemy branch, a simple base layout, and one clear objective. Sergeant missions add contested resource nodes and mixed enemy forces requiring basic combined arms responses. Lieutenant stages introduce enemy base assault objectives alongside defensive waves, requiring simultaneous offensive and defensive management. Colonel missions feature fortified enemy positions, multiple objectives with competing timelines, and punishing resource constraints. General missions represent the full complexity of the game: limited resources, elite multi-branch enemy forces, simultaneous objectives, and minimal margin for error in either the build order or the tactical execution.",
+    "tips": [
+      { "title": "Read the Mission Brief",    "desc": "Every mission tells you what enemy unit types are present if you check the briefing screen before starting. This information should directly determine your build order. Sending infantry against an armour-heavy enemy is a waste of barracks time and gold that could have trained anti-armour units instead." },
+      { "title": "Defend in Depth",           "desc": "A single defensive line is one breach away from catastrophe. Place a first line at the outer chokepoint, a second line of turrets and heavier units behind it, and keep a mobile reserve that can respond to breaches from any direction. Depth absorbs the attacks that inevitably punch through any single layer of defence." },
+      { "title": "Suppress Before Assaulting", "desc": "Sending units directly into a defended position is expensive. Use artillery or air strikes to soften the target first — reducing its defensive strength before the assault force commits. The resource cost of suppression is almost always lower than the unit replacement cost of an unsuppressed assault." },
+      { "title": "Secure Forward Resources",  "desc": "Resource nodes on the forward edge of the map are contested. Securing them early doubles or triples your income rate and denies the same advantage to the enemy. Send a light fast-moving force to capture them in the opening phase of every mission, before the main defensive build begins." },
+      { "title": "Reserve for Counter-Attack","desc": "Never commit the entire force to a single assault. Hold ten to twenty percent of your army in reserve near the base. When the enemy exploits the gap left by an attacking force — and it will — the reserve plugs the breach before it becomes a route. Reserves also allow immediate exploitation when an enemy flank collapses unexpectedly." }
+    ]
+  },
+
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "Tactics, base-building theory, and mission analysis for Last War commanders.",
+    "introParagraph": "Whether you are working through the early campaign or struggling to break through Colonel-difficulty missions, these guides break down the combined arms system, resource management, and the strategic decisions that determine mission outcomes. Each article focuses on transferable thinking rather than level-specific scripts.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Last War: A Complete Beginner's Guide",
+        "excerpt": "New to Last War? This guide covers the base-building system, the four military branches, and how to approach your first campaign missions without being overrun.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "🗺️",
+        "sections": [
+          {
+            "heading": "What Is Last War?",
+            "paragraphs": [
+              "Last War is a free browser strategy game set in a post-apocalyptic conflict. You build a military base, manage production of four distinct unit types — infantry, armoured vehicles, aircraft, and artillery — and deploy them in tactical operations against enemy forces across a campaign of escalating difficulty.",
+              "Unlike purely reactive action games, Last War rewards preparation. The quality of your base layout, build order, and unit composition matters more than reflexes. Decisions made in the opening minutes of each mission determine whether the final wave can be repelled."
+            ]
+          },
+          {
+            "heading": "How to Open the Game",
+            "paragraphs": [
+              "Visit lastwar.fr on any device — desktop, tablet, or mobile. The game loads directly in the browser with no installation and no account required. Mouse clicks control all interactions on desktop; touch controls work on mobile. The interface labels each building and unit type clearly, so new players can understand the function of every element within the first two minutes.",
+              "The campaign map shows mission status and locked stages. There is no energy system or daily cap — play as many missions in sequence as you want. Completed missions can be replayed at any time, which is useful for practising specific mechanics before tackling harder stages."
+            ]
+          },
+          {
+            "heading": "Your First Five Minutes",
+            "paragraphs": [
+              "The opening mission is a tutorial in resource flow. The first action in any mission should be to build resource extractors — the structures that generate income over time. Do not construct any military buildings until at least two extractors are producing. The compound interest of early income is the largest sustainable advantage available in the opening phase.",
+              "Once resources are flowing, build a barracks and train your first infantry squad. Position them at the nearest chokepoint between your base and the enemy spawn. Do not send them forward — let the terrain work for you. The first wave in introductory missions is light enough to test the mechanics without punishing early mistakes heavily."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Head to the Play page, select Mission 1, and start building. The early campaign introduces one new mechanic per mission — the vehicle depot, the airstrip, the artillery emplacement — so each stage expands your strategic toolkit gradually. Focus on understanding the purpose of each building and unit type as it appears rather than rushing through stages, and the more complex missions will become readable rather than overwhelming."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips & Tricks for Last War",
+        "excerpt": "These strategic habits separate commanders who dominate the campaign from those who stall at Lieutenant difficulty. Build them into every session from the start.",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "date": "2026-01-05",
+        "icon": "💡",
+        "sections": [
+          {
+            "heading": "Master the Fundamentals",
+            "paragraphs": [
+              "The three systems that govern every Last War mission are resource production, combined arms composition, and base layout. Most losses can be traced to a failure in one of these three areas. Under-investing in extractors creates a resource crisis in the mid-game. Building only one unit type creates counter-exploitable weaknesses. A linear base layout with no depth collapses the moment the outer line is breached.",
+              "Internalise these three priorities in order: secure income first, then build the right force mix for the enemy you are facing, then arrange your base so defences cover multiple approach vectors. When a mission fails, diagnose which of the three was the weak link before restarting."
+            ]
+          },
+          {
+            "heading": "Think Before You Act",
+            "paragraphs": [
+              "Last War gives you a planning phase at the start of most missions. Use it fully. Check the enemy unit composition in the briefing, identify the two most likely attack routes on the map, and place defensive structures to cover both before building any offensive units. Building offence before securing defence is the most common mistake made at every difficulty level.",
+              "Resist the impulse to immediately build the unit type that won the last mission. Enemy compositions change between missions specifically to punish commanders who default to a fixed approach. Read each mission as a new problem, not a variation on a familiar pattern."
+            ]
+          },
+          {
+            "heading": "Recognise Patterns Early",
+            "paragraphs": [
+              "After fifteen or twenty missions, recurring strategic patterns become apparent. Missions with narrow map corridors favour artillery and infantry over armour and aviation. Missions with open terrain favour armour-heavy assault forces over defensive positioning. Missions with multiple resource nodes on contested ground require a fast early mobile force to secure income before the enemy does.",
+              "Enemy faction compositions also follow consistent tendencies. Factions that open with heavy armour almost always have thin anti-aircraft capacity — aviation-heavy responses are reliable against them. Recognising these tendencies allows pre-mission build decisions rather than reactive mid-mission adjustments."
+            ]
+          },
+          {
+            "heading": "Advanced Techniques",
+            "paragraphs": [
+              "On Colonel and General missions, the margin between winning and losing is often a single build order decision. Identify the most threatening enemy unit type from the briefing and ensure your counter for it is fully trained and positioned before the first wave arrives, even if it means delaying another part of the build. Being unprepared for the primary threat when it appears is not recoverable without a restart.",
+              "Feint attacks — sending a small fast unit to threaten an enemy resource node while the main force holds defensively — force the enemy AI to split its response. This creates gaps in the attack pattern that a well-timed counter-push can exploit. Even if the feint unit is destroyed, the distraction it creates often yields more value than the unit cost."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "The Cognitive Benefits of Playing Last War",
+        "excerpt": "Military strategy games train specific cognitive skills that transfer to real-world decision-making. Here is what research says about the mental effects of games like Last War.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-10",
+        "icon": "🧠",
+        "sections": [
+          {
+            "heading": "Games and the Brain",
+            "paragraphs": [
+              "Strategy games place high demands on working memory — the system that holds and manipulates information in the short term — and on cognitive flexibility, the ability to shift approaches when circumstances change. Both skills are among the strongest predictors of academic and professional performance. Studies consistently find that regular strategy game play produces measurable improvements in both.",
+              "Last War specifically exercises the prefrontal cortex through sustained planning under resource constraints. Players must simultaneously track resource rates, unit positions, enemy movements, and mission timers — a multitasking demand that strengthens the brain's executive control systems when practised regularly."
+            ]
+          },
+          {
+            "heading": "Problem-Solving",
+            "paragraphs": [
+              "Each Last War mission is a constrained optimisation problem: achieve the objective with limited resources, against a dynamic and adaptive opponent, using a combinatorial unit system with no single dominant solution. Players learn to break complex challenges into sub-problems, sequence their resolution by priority, and revise the plan when new information arrives. This systematic approach to problem decomposition transfers directly to project management, engineering, and strategic planning in professional contexts.",
+              "The game also develops tolerance for ambiguity. In harder missions, the right approach is not obvious from the outset — it emerges through iterative testing and adjustment. Players who learn to act confidently on incomplete information and revise smoothly when it proves wrong are practising a skill that is genuinely rare and valuable outside of games."
+            ]
+          },
+          {
+            "heading": "Stress Relief",
+            "paragraphs": [
+              "Despite the wartime theme, strategy game play is widely reported as a stress-relieving activity. The reason is focus: when working memory is occupied by a complex, manageable task, it is unavailable for anxious rumination. The psychological state produced — called absorption — has measurable effects on cortisol levels and subjective mood, functioning as a reliable mental reset for players under daily stress.",
+              "Last War's mission structure — clear objectives, informative failure states, and instant restarts — creates a productive challenge cycle without the negative stress of uncontrollable failure. Each mission is finite, manageable, and immediately retryable. This structure is well-suited to stress relief because it provides the benefits of focused engagement without the frustration of genuinely unwinnable situations."
+            ]
+          },
+          {
+            "heading": "Safe Screen Time",
+            "paragraphs": [
+              "The distinction between passive screen time and active screen time is meaningful. Watching video content is passive; planning a multi-branch military operation under resource pressure is active. Last War demands sustained attention, real-time decision evaluation, and consistent adaptation — the brain is engaged as a decision-maker throughout every session.",
+              "For parents assessing screen time quality, strategy games represent some of the highest-value options available. The combat in Last War is stylised and non-graphic. There are no social comparison mechanics, no notification systems, and no compulsive engagement patterns. It is structured, purposeful play with measurable cognitive benefits."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Get Better at Last War",
+        "excerpt": "Stalled at Lieutenant or struggling to crack Colonel missions? These practice habits will develop your strategic thinking and break through the difficulty plateau.",
+        "category": "Strategy",
+        "readTime": "8 min read",
+        "date": "2026-01-15",
+        "icon": "📈",
+        "sections": [
+          {
+            "heading": "Focus on Consistency",
+            "paragraphs": [
+              "Improvement in Last War comes from encountering varied mission configurations, not from grinding a familiar stage. If a mission is proving resistant, play several adjacent campaign missions with deliberately different unit compositions — try an aviation-heavy approach if you have been defaulting to armour, or an artillery-anchored defence if you typically play aggressive. This variety builds pattern recognition faster than any single approach.",
+              "Short regular sessions are more effective than long infrequent ones for strategy skill development. The planning and evaluation habits that Last War rewards consolidate during rest. Twenty minutes of focused play three times a week will improve strategic thinking faster than a two-hour session on a single day."
+            ]
+          },
+          {
+            "heading": "Analyse Your Mistakes",
+            "paragraphs": [
+              "When a mission fails, pause before restarting and examine the map state at the point of defeat. Was the loss triggered by a resource shortage that stopped unit production at the critical moment? Was a specific unit type reaching an undefended section of the base? Did the assault force commit to a push that was not sufficiently supported?",
+              "Each of these failure types has a direct correction: resource shortage requires an earlier extractor investment; undefended sectors require a repositioned unit or an additional turret; unsupported assaults require artillery suppression or infantry screening before armour commits. Identifying the specific cause of failure, rather than simply restarting and hoping for different results, is the single practice that most rapidly improves mission clear rates."
+            ]
+          },
+          {
+            "heading": "Build a Strategy",
+            "paragraphs": [
+              "High-performing Last War players follow a consistent pre-mission planning sequence: identify the primary enemy threat type from the briefing, choose the counter unit combination, plan the base layout to cover the main attack vectors, set the build order to produce the counter force before the first significant wave arrives, and identify the forward resource nodes worth contesting in the opening phase.",
+              "This routine takes under two minutes at the start of each mission and eliminates the majority of mid-mission crises that result from reactive rather than anticipatory play. Build the routine deliberately over the next ten sessions — by the end, it becomes automatic and the additional planning time largely disappears."
+            ]
+          },
+          {
+            "heading": "Practice Regularly",
+            "paragraphs": [
+              "Completed missions can be replayed with self-imposed constraints to push skills further. Try clearing a General mission without building any aircraft, or completing a Colonel mission while spending less than 60 percent of the resources used on the first clear. Constrained replays force the discovery of efficient solutions that were invisible when resources felt plentiful.",
+              "Return to difficult missions after a few days away. Strategic skills consolidate during sleep, and a mission that seemed insurmountable on one day often yields to a fresh attempt two days later. Memory reconsolidation during rest reorganises tactical information in ways that make previously blocked solutions accessible — this is not superstition but established cognitive science."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Last War for Kids: A Parent's Complete Guide",
+        "excerpt": "Is Last War appropriate for your child? Here is everything parents need to know about content, safety, educational value, and structuring healthy play sessions.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-20",
+        "icon": "👨‍👩‍👧",
+        "sections": [
+          {
+            "heading": "Is Last War Safe for Children?",
+            "paragraphs": [
+              "Yes, with context. Last War depicts military conflict in a stylised, non-graphic way — units are represented as icons and vehicles that are destroyed rather than shown with realistic violence or gore. The game has no chat features, no social comparison systems, and no leaderboards that expose children to other players. No account creation is required, so no personal data is collected from your child.",
+              "There are no advertisements targeting children and no in-app purchases of any kind. The game runs safely in the browser with no external links or content feeds. Parents can hand a device to a child and be confident they will encounter only the game itself — clean strategy content with no problematic surrounding material. Safe browser play is central to the design."
+            ]
+          },
+          {
+            "heading": "What Will My Child Learn?",
+            "paragraphs": [
+              "Last War develops resource management, multi-step planning, and adaptive thinking under constraint — skills with direct academic and professional applications. Children learn to prioritise competing demands, allocate limited resources against multiple objectives, and revise their approach when an initial strategy proves ineffective. These are transferable skills in mathematics, project planning, and problem-solving contexts.",
+              "The game also develops emotional regulation around failure. Because missions can be restarted freely and failures contain diagnostic information — a child can see exactly why the base was overrun — they learn to treat setbacks as data rather than defeat. This growth-oriented response to failure is one of the most durable cognitive benefits of strategy game play."
+            ]
+          },
+          {
+            "heading": "Tips for Healthy Screen Time",
+            "paragraphs": [
+              "Last War has no push notifications, no energy mechanics that expire while away from the game, and no time-gated events designed to create urgent return visits. This means it does not generate the compulsive checking behaviour that characterises poorly designed mobile games. Sessions start and end cleanly with no residual engagement pull.",
+              "A practical structure for younger players: play until one mission is completed successfully, then step away. Discussing the mission afterwards — what strategy was used, what went wrong first, what change led to success — adds a metacognitive layer that multiplies the educational value. It also gives parents clear visibility into what is being played without needing to monitor the screen continuously."
+            ]
+          },
+          {
+            "heading": "COPPA Compliance",
+            "paragraphs": [
+              "Last War does not collect personal information from any user, including children under 13. There is no registration process, no email address required, and no individual player tracking. Game progress is stored exclusively in the browser's local storage on the device being used and is never sent to any server or third-party service.",
+              "This architecture makes the game compliant with children's online privacy principles by default — there is no data being collected that could require parental consent. Parents can be fully confident that their child's play history and behaviour within the game remains private and is not accessible to, or processed by, any external system."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
